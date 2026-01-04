@@ -61,23 +61,74 @@ margin: 10px 60px 3px  ;
 
 .moon img{
   float:right ;
+  
 }
-.flower{
-   border: 20px solid rgb(59, 47, 7)   ;
 
+.vfv{
+  text-align: right;
+  color: rgb(185, 40, 40);
+  margin: 10px 60px 3px  ;
+}
+
+
+ .mom{margin-bottom: 300px;
   overflow: hidden;
-
-
-
+  border: 20px solid rgb(53, 2, 2)   ;
+}   
+.po{
+  color: rgb(117, 71, 32);
+  
 }
-.flower h2{
+
+
+ 
+ .moo{
+  margin-bottom: 50px;
+  overflow: hidden;
+  border: 20px solid rgb(114, 71, 53)   ;
+
+  
+  
+ }
+
+.moo h2{
   float: right;
+  /* width: 80%; */
+}
+
+.moo img{
+  float:left ;
   width: 20%;
 }
 
-.flower img{
-  float: left;
+.o{
+  color: rgb(87, 56, 30);
+  text-align: right;
 }
 
-                
+
+ 
+ .mo{
+  margin-bottom: 50px;
+  overflow: hidden;
+  border: 20px solid rgb(71, 46, 34)   ;
+
+  
+  
+ }
+
+.mo h2{
+  float: left;
+  /* width: 80%; */
+}
+
+.mo img{
+  float:right ;
+  width: 20%;
+}
+  
+       .IU{
+        text-align: center;
+        overflow: hidden;
+       }       
        
